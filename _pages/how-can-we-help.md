@@ -27,9 +27,9 @@ Our workshops are immersive, collaborative sessions that drive real change. Desi
 - **Hands-On exercises**: Learn by doing with activities that translate theory into practice.  
 - **Actionable outcomes**: Leave with clear next steps to drive immediate impact.  
 
-> *“These workshops helped us get to grips with Team Topologies concepts as well as reflect on our current structure and interactions. We were able to take the learnings from these workshops and apply them along our journey towards improving flow within our organisation.”* – [Laden Oksuzer-Campbell](https://www.linkedin.com/in/laden-oksuzer-campbell-29907855)
+![Laden Oksuzer-Campbell](/assets/images/profiles/laden_oksuzer-campbell.jpeg){: .align-right }
 
-![Laden Oksuzer-Campbell](/assets/images/profiles/laden_oksuzer-campbell){: .align-right }
+> *“These workshops helped us get to grips with Team Topologies concepts as well as reflect on our current structure and interactions. We were able to take the learnings from these workshops and apply them along our journey towards improving flow within our organisation.”* – [Laden Oksuzer-Campbell](https://www.linkedin.com/in/laden-oksuzer-campbell-29907855)
 
 ---
 
