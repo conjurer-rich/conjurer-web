@@ -2,8 +2,9 @@
 layout: single
 title: "Talks and Podcasts: Coming Soon!"
 permalink: /insights/resources/talks-podcasts/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: insights
 description: "Our talks and podcasts are on the way! Soon, you'll hear insights from experts and thought leaders on team dynamics, workflow optimization, and more."

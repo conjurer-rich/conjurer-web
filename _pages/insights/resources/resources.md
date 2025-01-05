@@ -2,8 +2,9 @@
 layout: single
 title: "Resources"
 permalink: /insights/resources/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: insights
 description: "Explore our collection of guides, cheat sheets, reference materials, talks, podcasts, videos, and more to enhance your team's effectiveness and workflow."

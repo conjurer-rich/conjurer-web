@@ -2,7 +2,9 @@
 layout: collection
 title: "Mini-Books: Coming soon!"
 permalink: /insights/mini-books/
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: insights
 description: "Our mini-books are on their way! Bite-sized deep dives into organizational dynamics, team flow, and more. Stay tuned!"

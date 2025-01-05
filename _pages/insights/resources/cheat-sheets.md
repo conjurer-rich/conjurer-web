@@ -2,8 +2,9 @@
 layout: single
 title: "Cheat Sheets: Coming Soon!"
 permalink: /insights/resources/cheat-sheets/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: resources
 description: "Our cheat sheets are on the way! Soon, you'll have quick-reference tools to help you tackle organizational challenges with confidence."

@@ -2,8 +2,9 @@
 layout: single
 title: "Guides: Coming Soon!"
 permalink: /insights/resources/guides/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: resources
 description: "Our step-by-step guides are on their way! Soon, you'll have access to practical resources to streamline workflows and optimize team dynamics."

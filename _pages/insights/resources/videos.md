@@ -2,8 +2,9 @@
 layout: single
 title: "Videos: Coming Soon!"
 permalink: /insights/resources/videos/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
+breadcrumb: true
 sidebar:
   nav: resources
 description: "Our video library is on its way! Soon, you'll have access to tutorials, webinars, and real-world examples to bring concepts to life."

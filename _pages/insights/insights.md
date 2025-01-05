@@ -2,8 +2,8 @@
 layout: single
 title: "Insights"
 permalink: /insights/
-author_profile: true
-toc: false
+toc: true
+toc_sticky: true
 sidebar:
   nav: insights
 description: "Explore a collection of articles, mini-books, and curated resources to help your organization optimize workflows, improve team dynamics, and achieve faster value delivery."
