@@ -6,13 +6,13 @@ toc: true
 toc_sticky: true
 breadcrumb: true
 sidebar:
-  nav: insights
-description: "Our talks and podcasts are on the way! Soon, you'll hear insights from experts and thought leaders on team dynamics, workflow optimization, and more."
+  nav: resources
+description: "Our curated list of talks and podcasts is on the way! Soon, you'll hear insights from experts and thought leaders on team dynamics, workflow optimization, and more."
 ---
 
 🎙 **Big Ideas, Straight to Your Ears** 🎙
 
-We’re thrilled to announce that **talks and podcasts** are coming your way! Soon, you’ll have access to inspiring conversations with thought leaders and actionable insights from experts—all designed to help you transform your organization.
+We’re thrilled to announce that our curated list of **talks and podcasts** is coming your way! Soon, you’ll have access to inspiring conversations with thought leaders and actionable insights from experts—all designed to help you transform your organization.
 
 ---
 
@@ -32,7 +32,9 @@ We've got some ideas but we'd love to hear what you would really like see. [Reac
 
 ## Be the First to Tune In!
 
-We’re in the recording studio crafting conversations just for you. Want to know the moment they’re live? **[Sign up for updates](#)** and we’ll keep you in the loop.
+We’re actively seeking out content just for you. Want to know the moment they’re live? 
+
+<script async data-uid="06c268f237" src="https://betterteamdynamics.kit.com/06c268f237/index.js"></script>
 
 ---
 

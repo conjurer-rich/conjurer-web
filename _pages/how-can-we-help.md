@@ -1,6 +1,6 @@
 ---
 permalink: /how-can-we-help
-title: "How we can help with workshops, enablement, and consultancy"
+title: "Empowering Teams, Streamlining Workflows, Delivering Value."
 layout: splash
 description: "Learn, grow, and transform with tailored workshops, hands-on enablement, and expert consultancy."
 classes: wide
@@ -10,6 +10,7 @@ sidebar:
   nav: how-can-we-help
 redirect_from:
   - /training
+  - /how-we-can-help
 ---
 
 ## How We Can Help
@@ -22,35 +23,37 @@ At Conjurer Solutions, we specialize in empowering organizations to evolve into 
 
 Our workshops are immersive, collaborative sessions that drive real change. Designed for teams and leaders, these sessions focus on practical applications of organizational dynamics to overcome challenges and achieve alignment.
 
-- **Tailored Topics**: Address your organization’s unique needs, from team collaboration to scaling challenges.  
-- **Hands-On Exercises**: Learn by doing with activities that translate theory into practice.  
-- **Actionable Outcomes**: Leave with clear next steps to drive immediate impact.  
+- **Tailored topics**: Address your organization’s unique needs, from team collaboration to scaling challenges.  
+- **Hands-On exercises**: Learn by doing with activities that translate theory into practice.  
+- **Actionable outcomes**: Leave with clear next steps to drive immediate impact.  
 
-> *“The workshop was eye-opening—our teams walked away with a shared understanding and a plan to move forward.”* – A Recent Client  
+> *“These workshops helped us get to grips with Team Topologies concepts as well as reflect on our current structure and interactions. We were able to take the learnings from these workshops and apply them along our journey towards improving flow within our organisation.”* – [Laden Oksuzer-Campbell](https://www.linkedin.com/in/laden-oksuzer-campbell-29907855)
+
+![Laden Oksuzer-Campbell](/assets/images/profiles/laden_oksuzer-campbell){: .align-right }
 
 ---
 
-## Enablement: Empowering Teams for Success
+## Enablement: Empowering teams for success
 
 Our enablement services help your teams build the skills, knowledge, and practices they need to thrive in a rapidly changing environment. We focus on long-term capacity-building, ensuring your teams are equipped to succeed beyond our engagement.  
 
 - **Coaching**: Provide ongoing support to individuals and teams as they adopt new practices.  
-- **Skill Development**: Foster capabilities in leadership, collaboration, and adaptability.  
-- **Sustainable Growth**: Embed new ways of working that enhance resilience and performance.  
+- **Skill development**: Foster capabilities in leadership, collaboration, and adaptability.  
+- **Sustainable growth**: Embed new ways of working that enhance resilience and performance.  
 
 ---
 
-## Consulting: Strategies for Sustainable Transformation
+## Consulting: Strategies for sustainable transformation
 
 Our consulting services provide tailored guidance for organizations facing complex challenges or opportunities. We partner with you to design and implement strategies that align with your goals, culture, and vision for the future.  
 
-- **Organizational Design**: Structure your teams to optimize flow, alignment, and outcomes.  
-- **Change Management**: Navigate transitions like mergers, growth phases, or cultural shifts.  
-- **Strategic Roadmapping**: Define clear paths for achieving long-term organizational success.  
+- **Organizational design**: Structure your teams to optimize flow, alignment, and outcomes.  
+- **Change management**: Navigate transitions like mergers, growth phases, or cultural shifts.  
+- **Strategic roadmapping**: Define clear paths for achieving long-term organizational success.  
 
 ---
 
-## Why Choose Conjurer Solutions?
+## Why choose Conjurer Solutions?
 
 We don’t believe in one-size-fits-all solutions. Every organization is unique, and our approach is rooted in understanding your context, goals, and challenges.  
 
@@ -58,7 +61,7 @@ With a focus on **people-first principles** and **proven practices**, we empower
 
 ---
 
-## Start Your Transformation Today
+## Start your transformation today
 
 Whether you’re looking to align your teams, overcome challenges, or prepare for the future, we’re here to help.
 

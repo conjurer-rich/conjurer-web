@@ -7,7 +7,7 @@ toc_sticky: true
 breadcrumb: true
 sidebar:
   nav: resources
-description: "Our video library is on its way! Soon, you'll have access to tutorials, webinars, and real-world examples to bring concepts to life."
+description: "Our curated video library is on its way! Soon, you'll have access to tutorials, webinars, and real-world examples to bring concepts to life."
 ---
 
 🎥 **Learn by Watching** 🎥
@@ -36,7 +36,9 @@ We've got some ideas for more content but we'd love to hear what you would reall
 
 ## Be the first to watch!
 
-We’re in the studio putting together more top-notch content just for you. Want to be the first to access our new videos? **[Sign up for updates](#)** and we’ll let you know as soon as they’re live!
+We’re in the actively seeking top-notch content just for you. Want to be the first to access our new videos? 
+
+<script async data-uid="06c268f237" src="https://betterteamdynamics.kit.com/06c268f237/index.js"></script>
 
 ---
 
