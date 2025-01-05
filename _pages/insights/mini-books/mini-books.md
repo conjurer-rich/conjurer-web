@@ -46,7 +46,7 @@ We’re busy crafting these mini-books with love, care, and a sprinkle of magic.
 
 ## In the Meantime...
 
-While you wait, why not check out our [Articles](/insights/articles/) or learn about our **[Sense It, Share It, Solve It](/sense-share-solve/)** framework? You’ll find plenty of great content to keep you inspired and informed.
+While you wait, why not check out our [Articles](/insights/articles/) or learn about our **[Sense It, Share It, Solve It](/sense-share-solve/)** approach? You’ll find plenty of great content to keep you inspired and informed.
 
 ---
 

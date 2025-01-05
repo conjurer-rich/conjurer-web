@@ -20,7 +20,7 @@ We’ve curated a variety of resources to meet your learning and practical needs
 
 ### 📖 **Guides and Reference Material**
 
-- Step-by-step guides to help you implement frameworks like **Sense It, Share It, Solve It**.
+- Step-by-step guides to help you implement approaches like **Sense It, Share It, Solve It**.
 - Comprehensive reference materials covering team dynamics, cognitive load, and more.
 
 [View Guides and References →](/insights/resources/guides/)

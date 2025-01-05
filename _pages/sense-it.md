@@ -9,7 +9,7 @@ sidebar:
 description: "Learn how to recognize blockers to the flow of value by sensing awkward interactions, dependencies, and inefficiencies in your team's workflows."
 ---
 
-The **🔍 Sense It** phase is the first step in the **Sense It, Share It, Solve It** framework. It’s about becoming attuned to the subtle and not-so-subtle signals that indicate something isn’t working as it should. These signals can take many forms, from recurring delays to awkward team interactions. By sharpening your ability to sense these issues, you can identify opportunities for improvement before they escalate into bigger problems.
+The **🔍 Sense It** phase is the first step in the **Sense It, Share It, Solve It** approach. It’s about becoming attuned to the subtle and not-so-subtle signals that indicate something isn’t working as it should. These signals can take many forms, from recurring delays to awkward team interactions. By sharpening your ability to sense these issues, you can identify opportunities for improvement before they escalate into bigger problems.
 
 ---
 
@@ -51,4 +51,4 @@ By improving your ability to sense blockers to flow, you enable your organizatio
 
 Once you’ve identified the signals of inefficiencies, the next step is to **[🗣 Share It](/sense-share-solve/share-it/)**. This involves communicating your observations effectively, using tools like team interaction modeling and value stream mapping to ensure a shared understanding of the problem.
 
-Ready to dive deeper? Explore the full **[Sense It, Share It, Solve It framework](/sense-share-solve/)** to optimize your team’s workflow and minimize blockers to value delivery.
+Ready to dive deeper? Explore the full **[Sense It, Share It, Solve It approach](/sense-share-solve/)** to optimize your team’s workflow and minimize blockers to value delivery.

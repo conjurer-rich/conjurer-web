@@ -42,7 +42,7 @@ Navigate complex transitions with confidence. Whether it’s a merger, cultural 
 **What We Deliver:**  
 
 - Strategies to minimize disruption and build buy-in.  
-- Frameworks for addressing resistance and fostering alignment.  
+- Approaches for addressing resistance and fostering alignment.  
 - A clear roadmap for successful implementation.  
 
 ---

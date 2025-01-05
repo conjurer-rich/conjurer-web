@@ -1,23 +1,25 @@
 ---
 layout: splash
-title: "🔍 Sense It, 🗣 Share It, 🤝 Solve It"
-permalink: /sense-share-solve/
+title: "Turning Challenges into Opportunities: A approach for lasting change."
+permalink: /our-approach/
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
 author_profile: true
 toc: true
 sidebar:
   nav: sense-share-solve
-description: "An introduction to the Sense It, Share It, Solve It framework, designed to help teams identify blockers, share challenges, and implement collaborative solutions for improved flow and efficiency."
+description: "An introduction to the Sense It, Share It, Solve It approach, designed to help teams identify blockers, share challenges, and implement collaborative solutions for improved flow and efficiency."
+redirect_from:
+  - /sense-share-solve
 ---
 
-Welcome to the **🔍 Sense It, 🗣 Share It, 🤝 Solve It** framework—your guide to identifying and overcoming blockers that slow down the flow of value in your organization. This approach empowers teams to detect challenges, communicate effectively, and collaborate on actionable solutions that drive continuous improvement.
+Welcome to the **🔍 Sense It, 🗣 Share It, 🤝 Solve It** approach guide to identifying and overcoming blockers that slow down the flow of value in your organization. This approach empowers teams to detect challenges, communicate effectively, and collaborate on actionable solutions that drive continuous improvement.
 
 ---
 
 ## What is Sense It, Share It, Solve It?
 
-The **Sense It, Share It, Solve It** framework is a structured process designed to:
+The **Sense It, Share It, Solve It** approach is a structured process designed to:
 
 - **Sense It**: Recognize subtle or obvious signals that something isn’t flowing as smoothly as it should. These might be awkward interactions, recurring delays, or unspoken frustrations.
 - **Share It**: Foster open and transparent communication by visualizing and discussing challenges. Use proven techniques to explore the underlying root causes of the issues.
@@ -27,7 +29,7 @@ The **Sense It, Share It, Solve It** framework is a structured process designed 
 
 ## Explore Each Phase
 
-Dive deeper into each stage of the framework to learn how to apply it effectively in your team or organization:
+Dive deeper into each stage of the approach to learn how to apply it effectively in your team or organization:
 
 - [**🔍 Sense It**](/sense-share-solve/sense-it): Learn how to detect the signals of inefficiency, such as delays, unclear responsibilities, or awkward team interactions. Discover tools and strategies to sharpen your observation skills.
 - [**🗣 Share It**](/sense-share-solve/share-it): Understand how to visualize and communicate these challenges using techniques like team interaction modeling, user needs mapping, and independent service heuristics.
@@ -37,7 +39,7 @@ Dive deeper into each stage of the framework to learn how to apply it effectivel
 
 ## Why Use Sense It, Share It, Solve It?
 
-By adopting this framework, you can:
+By adopting this approach, you can:
 
 - **Improve team efficiency**: Address root causes of inefficiencies rather than just symptoms.
 - **Foster collaboration**: Break down silos and align teams around shared goals.

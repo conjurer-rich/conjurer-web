@@ -9,7 +9,7 @@ sidebar:
 description: "Learn how to share observations of blockers using tools like team interaction modeling and value stream mapping, fostering a shared understanding of challenges."
 ---
 
-The **🗣 Share It** phase of the **Sense It, Share It, Solve It** framework focuses on fostering open communication about the blockers you’ve identified. Effective sharing transforms individual observations into shared understanding, setting the stage for collaborative problem-solving.
+The **🗣 Share It** phase of the **Sense It, Share It, Solve It** approach focuses on fostering open communication about the blockers you’ve identified. Effective sharing transforms individual observations into shared understanding, setting the stage for collaborative problem-solving.
 
 ---
 
@@ -55,4 +55,4 @@ Imagine a team struggles with frequent delays due to unclear ownership of a key 
 
 After achieving a shared understanding of the challenges, it’s time to **[Solve It](/sense-share-solve/solve-it/)**. This phase focuses on collaboratively implementing changes to minimize dependencies, reduce cognitive load, and optimize workflows.
 
-Explore the next step in the **[Sense It, Share It, Solve It framework](/sense-share-solve/)** to drive real change in your organization.
+Explore the next step in the **[Sense It, Share It, Solve It approach](/sense-share-solve/)** to drive real change in your organization.

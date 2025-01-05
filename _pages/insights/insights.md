@@ -25,7 +25,7 @@ Discover in-depth articles that explore common organizational challenges, provid
 
 ### Mini-Books
 
-Delve into our mini-books for more comprehensive insights into complex topics. These curated resources are perfect for leaders and teams looking to dive deeper into frameworks like **Sense It, Share It, Solve It**, team topologies, and more.
+Delve into our mini-books for more comprehensive insights into complex topics. These curated resources are perfect for leaders and teams looking to dive deeper into approaches like **Sense It, Share It, Solve It**, team topologies, and more.
 
 [Browse Mini-Books →](/insights/mini-books/)
 
@@ -33,7 +33,7 @@ Delve into our mini-books for more comprehensive insights into complex topics. T
 
 ### Curated Resources
 
-Access a curated collection of external resources, including links to influential books, frameworks, and tools that have shaped our approach to team dynamics and organizational flow.
+Access a curated collection of external resources, including links to influential books, approaches, and tools that have shaped our approach to team dynamics and organizational flow.
 
 [View Resources →](/insights/resources/)
 

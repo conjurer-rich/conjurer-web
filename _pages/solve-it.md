@@ -9,7 +9,7 @@ sidebar:
 description: "Learn how to solve blockers through collaboration, minimizing dependencies, and optimizing team boundaries to achieve faster flow and reduced cognitive load."
 ---
 
-The **🤝 Solve It** phase of the **Sense It, Share It, Solve It** framework is where meaningful change happens. After recognizing and discussing blockers, this phase focuses on collaboratively implementing solutions that minimize dependencies, optimize workflows, and ensure the smooth flow of value across teams.
+The **🤝 Solve It** phase of the **Sense It, Share It, Solve It** approach is where meaningful change happens. After recognizing and discussing blockers, this phase focuses on collaboratively implementing solutions that minimize dependencies, optimize workflows, and ensure the smooth flow of value across teams.
 
 ---
 
@@ -62,8 +62,8 @@ Addressing root causes is essential for driving real change. By implementing sol
 
 ## What's Next?
 
-The **🤝 Solve It** phase completes the **Sense It, Share It, Solve It** framework, but the journey doesn’t end here. Continuous improvement is key to maintaining fast flow and efficiency in dynamic environments.
+The **🤝 Solve It** phase completes the **Sense It, Share It, Solve It** approach, but the journey doesn’t end here. Continuous improvement is key to maintaining fast flow and efficiency in dynamic environments.
 
 Ready to apply these strategies? Join one of our **[workshops](/workshops/)** to see how Sense It, Share It, Solve It can transform your organization.
 
-Explore the entire **[Sense It, Share It, Solve It framework](/sense-share-solve/)** and drive meaningful change today.
+Explore the entire **[Sense It, Share It, Solve It approach](/sense-share-solve/)** and drive meaningful change today.

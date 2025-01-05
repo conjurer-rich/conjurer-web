@@ -22,7 +22,7 @@ Our guides are designed to be:
 
 - **Practical**: Clear steps and actionable advice you can use immediately.
 - **Focused**: Zero fluff, just the tools and techniques you need.
-- **Impactful**: Rooted in proven frameworks and real-world success stories.
+- **Impactful**: Rooted in proven approaches and real-world success stories.
 
 ---
 
@@ -36,7 +36,7 @@ We’re putting the finishing touches on these resources, and they’ll be live 
 
 ## Looking for something else…
 
-Explore our [Articles](/insights/articles/), check out our **[Guides](/insights/resources/guides/)** to get started or dive into the basics of our **[Sense It, Share It, Solve It framework](/sense-share-solve/)**.
+Explore our [Articles](/insights/articles/), check out our **[Guides](/insights/resources/guides/)** to get started or dive into the basics of our **[Sense It, Share It, Solve It approach](/sense-share-solve/)**.
 
 ---
 

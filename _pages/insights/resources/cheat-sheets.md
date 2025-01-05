@@ -20,7 +20,7 @@ We’re working on a collection of **cheat sheets** designed to be your go-to to
 
 Here’s a sneak peek at the cheat sheets we’re crafting:
 
-- **"Fast Flow Frameworks at a Glance"**: A quick-reference guide to key concepts for reducing blockers and optimizing value streams.
+- **"Fast Flow Approaches at a Glance"**: A quick-reference guide to key concepts for reducing blockers and optimizing value streams.
 - **"Dependency Management Made Easy"**: Practical tips to identify and minimize team dependencies.
 - **"Cognitive Load Checklist"**: A simple tool to spot and address mental overload in your teams.
 

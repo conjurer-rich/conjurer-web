@@ -47,7 +47,7 @@ Break down silos and enable seamless collaboration across teams. This workshop a
 
 **Key Outcomes:**  
 
-- Frameworks for managing dependencies effectively.  
+- Approaches for managing dependencies effectively.  
 - Improved inter-team communication and trust.  
 - Actionable steps to enhance collaboration.  
 
