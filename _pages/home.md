@@ -9,7 +9,19 @@ header:
       url: /contact
 exerpt: >
   We empower fast growing tech organizations to cultivate happier, more effective teams.
-description: 
+client_row:
+  - image_path: /assets/images/client-logos/code-intelligence.png
+    alt: "Code Intelligence logo"
+    title: "Code Intelligence"
+  - image_path: /assets/images/client-logos/puregym_logo.png
+    alt: "PureGym logo"
+    title: "PureGym"
+  - image_path: /assets/images/client-logos/syngenta_logo.png
+    alt: "Syngenta logo"
+    title: "Syngenta"
+  - image_path: /assets/images/client-logos/trayport_logo.png
+    alt: "Trayport logo"
+    title: "Trayport"
 ---
 
 ### Evolve your workplace into a thriving ecosystem
@@ -53,6 +65,10 @@ We specialize in supporting senior leaders and decision-makers who are:
 Our clients include organizations in technology, finance, and healthcare sectors across the UK and Europe with turnovers of £10M+.
 
 ---
+
+## Happy Clients
+
+{% include clients_row %}
 
 ## Ready to transform your organization?
 
