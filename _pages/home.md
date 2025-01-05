@@ -13,9 +13,6 @@ clients_gallery:
   - image_path: /assets/images/client-logos/code-intelligence.png
     url: /assets/images/client-logos/code-intelligence.png
     alt: "Code Intelligence logo"
-  - image_path: /assets/images/client-logos/puregym_logo.png
-    url: /assets/images/client-logos/puregym_logo.png
-    alt: "PureGym logo"
   - image_path: /assets/images/client-logos/syngenta_logo.png
     url: /assets/images/client-logos/syngenta_logo.png
     alt: "Syngenta logo"
@@ -68,7 +65,7 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 ## Happy Clients
 
-{% include gallery id="clients_gallery" size=4 %}
+{% include gallery id="clients_gallery" %}
 
 ## Ready to transform your organization?
 
