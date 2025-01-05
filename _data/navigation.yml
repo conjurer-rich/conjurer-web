@@ -1,0 +1,23 @@
+main:
+  - title: "How can we help"
+    url: /how-can-we-help
+  - title: "Sense it, Share it, Solve It"
+    url: /sense-share-solve
+  - title: "Contact"
+    url: /contact
+
+how-can-we-help:
+  - title: "Workshops"
+    url: /how-can-we-help/workshops
+  - title: "Enablement"
+    url: /how-can-we-help/enablement
+  - title: "Consultancy"
+    url: /how-can-we-help/consultancy
+
+sense-share-solve:
+  - title: "Sense it"
+    url: /sense-share-solve/sense-it
+  - title: "Share it"
+    url: /sense-share-solve/share-it
+  - title: "Solve it"
+    url: /sense-share-solve/solve-it
