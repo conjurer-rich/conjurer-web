@@ -19,7 +19,7 @@ At Conjurer Solutions, we specialize in empowering organizations to evolve into 
 
 ---
 
-## Workshops: Transformative Learning Experiences
+## Workshops: Transformative learning experiences
 
 Our workshops are immersive, collaborative sessions that drive real change. Designed for teams and leaders, these sessions focus on practical applications of organizational dynamics to overcome challenges and achieve alignment.
 
