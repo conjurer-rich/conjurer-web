@@ -1,6 +1,8 @@
 main:
   - title: "Our approach"
     url: /sense-share-solve
+  - title: "Insights"
+    url: /insights
   - title: "How can we help"
     url: /how-can-we-help
   - title: "Contact"
@@ -21,3 +23,21 @@ sense-share-solve:
     url: /sense-share-solve/share-it
   - title: "🤝 Solve it"
     url: /sense-share-solve/solve-it
+
+insights:
+  - title: "Articles"
+    url: /insights/articles
+  - title: "Mini-books"
+    url: /insights/min-books
+  - title: "Resources"
+    url: /insights/resources
+
+resources:
+  - title: "Cheat Sheets"
+    url: /insights/resources/cheat-sheets
+  - title: "Guides"
+    url: /insights/resources/guides
+  - title: "Talks and podcasts"
+    url: /insights/resources/talks-podcasts
+  - title: "videos"
+    url: /insights/resources/videos
