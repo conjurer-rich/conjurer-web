@@ -19,8 +19,8 @@ clients_gallery:
   - image_path: /assets/images/client-logos/syngenta_logo.png
     url: /assets/images/client-logos/syngenta_logo.png
     alt: "Syngenta logo"
-  - image_path: /assets/images/client-logos/trayport_logo.png
-    url: /assets/images/client-logos/trayport_logo.png
+  - image_path: /assets/images/client-logos/trayport_logo.jpeg
+    url: /assets/images/client-logos/trayport_logo.jpeg
     alt: "Trayport logo"
 ---
 
@@ -68,7 +68,7 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 ## Happy Clients
 
-{% include gallery id="clients_gallery" caption="Examples of happy clients." %}
+{% include gallery id="clients_gallery" size=4 %}
 
 ## Ready to transform your organization?
 
