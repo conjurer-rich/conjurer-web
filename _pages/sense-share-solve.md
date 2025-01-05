@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Sense It, Share It, Solve It"
+title: "🔍 Sense It, 🗣 Share It, 🤝 Solve It"
 permalink: /sense-share-solve/
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
@@ -11,7 +11,7 @@ sidebar:
 description: "An introduction to the Sense It, Share It, Solve It framework, designed to help teams identify blockers, share challenges, and implement collaborative solutions for improved flow and efficiency."
 ---
 
-Welcome to the **Sense It, Share It, Solve It** framework—your guide to identifying and overcoming blockers that slow down the flow of value in your organization. This approach empowers teams to detect challenges, communicate effectively, and collaborate on actionable solutions that drive continuous improvement.
+Welcome to the **🔍 Sense It, 🗣 Share It, 🤝 Solve It** framework—your guide to identifying and overcoming blockers that slow down the flow of value in your organization. This approach empowers teams to detect challenges, communicate effectively, and collaborate on actionable solutions that drive continuous improvement.
 
 ---
 
@@ -29,9 +29,9 @@ The **Sense It, Share It, Solve It** framework is a structured process designed 
 
 Dive deeper into each stage of the framework to learn how to apply it effectively in your team or organization:
 
-- [**Sense It**](/sense-share-solve/sense-it): Learn how to detect the signals of inefficiency, such as delays, unclear responsibilities, or awkward team interactions. Discover tools and strategies to sharpen your observation skills.
-- [**Share It**](/sense-share-solve/share-it): Understand how to visualize and communicate these challenges using techniques like team interaction modeling, user needs mapping, and independent service heuristics.
-- [**Solve It**](/sense-share-solve/solve-it): Discover methods to reduce dependencies, optimize team boundaries, and implement sustainable solutions that drive faster flow and better outcomes.
+- [**🔍 Sense It**](/sense-share-solve/sense-it): Learn how to detect the signals of inefficiency, such as delays, unclear responsibilities, or awkward team interactions. Discover tools and strategies to sharpen your observation skills.
+- [**🗣 Share It**](/sense-share-solve/share-it): Understand how to visualize and communicate these challenges using techniques like team interaction modeling, user needs mapping, and independent service heuristics.
+- [**🤝 Solve It**](/sense-share-solve/solve-it): Discover methods to reduce dependencies, optimize team boundaries, and implement sustainable solutions that drive faster flow and better outcomes.
 
 ---
 
@@ -39,9 +39,9 @@ Dive deeper into each stage of the framework to learn how to apply it effectivel
 
 By adopting this framework, you can:
 
-- **Improve Team Efficiency**: Address root causes of inefficiencies rather than just symptoms.
-- **Foster Collaboration**: Break down silos and align teams around shared goals.
-- **Deliver Value Faster**: Streamline workflows to achieve faster and more reliable outcomes.
+- **Improve team efficiency**: Address root causes of inefficiencies rather than just symptoms.
+- **Foster collaboration**: Break down silos and align teams around shared goals.
+- **Deliver value faster**: Streamline workflows to achieve faster and more reliable outcomes.
 
 ---
 

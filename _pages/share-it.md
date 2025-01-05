@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Share It: Communicate Challenges and Insights"
+title: "🗣 Share It: Communicate Challenges and Insights"
 permalink: /sense-share-solve/share-it/
 toc: true
 toc_sticky: true
@@ -9,7 +9,7 @@ sidebar:
 description: "Learn how to share observations of blockers using tools like team interaction modeling and value stream mapping, fostering a shared understanding of challenges."
 ---
 
-The **Share It** phase of the **Sense It, Share It, Solve It** framework focuses on fostering open communication about the blockers you’ve identified. Effective sharing transforms individual observations into shared understanding, setting the stage for collaborative problem-solving.
+The **🗣 Share It** phase of the **Sense It, Share It, Solve It** framework focuses on fostering open communication about the blockers you’ve identified. Effective sharing transforms individual observations into shared understanding, setting the stage for collaborative problem-solving.
 
 ---
 
@@ -17,9 +17,9 @@ The **Share It** phase of the **Sense It, Share It, Solve It** framework focuses
 
 Sharing isn’t just about pointing out problems; it’s about creating clarity and alignment. In this phase, you’ll translate your observations into a format that others can understand and act on. Key aspects of effective sharing include:
 
-- **Visualizing Challenges**: Use tools to clearly map out workflows, dependencies, or team interactions.
-- **Facilitating Open Discussions**: Create spaces for teams to discuss observations constructively.
-- **Aligning on Root Causes**: Ensure everyone agrees on the underlying causes of the challenges, not just the symptoms.
+- **Visualizing challenges**: Use tools to clearly map out workflows, dependencies, or team interactions.
+- **Facilitating open discussions**: Create spaces for teams to discuss observations constructively.
+- **Aligning on root causes**: Ensure everyone agrees on the underlying causes of the challenges, not just the symptoms.
 
 ---
 
@@ -31,7 +31,7 @@ Sharing is more effective when supported by structured tools and methods:
 - **User Needs Mapping**: Align team priorities with user needs to clarify which challenges are impeding value delivery and why they matter.
 - **Value Stream Mapping**: Use this technique to display the flow of work and identify bottlenecks or inefficiencies that slow down progress.
 - **Independent Service Heuristics**: Evaluate team independence and determine where unnecessary coordination is creating delays.
-- **Facilitated Workshops**: Host workshops to share and discuss observations, ensuring all voices are heard and perspectives considered.
+- **Facilitated workshops**: Host workshops to share and discuss observations, ensuring all voices are heard and perspectives considered.
 
 ---
 
@@ -39,9 +39,9 @@ Sharing is more effective when supported by structured tools and methods:
 
 Open communication ensures that problems are not just recognized but fully understood by all stakeholders. Benefits of effective sharing include:
 
-- **Shared Understanding**: Align teams around the root causes of blockers, avoiding miscommunication or misaligned efforts.
-- **Collaborative Solutions**: Facilitate diverse perspectives, enabling teams to co-create better solutions.
-- **Informed Decision-Making**: Provide leaders and teams with the information they need to make impactful changes.
+- **Shared understanding**: Align teams around the root causes of blockers, avoiding miscommunication or misaligned efforts.
+- **Collaborative solutions**: Facilitate diverse perspectives, enabling teams to co-create better solutions.
+- **Informed decision-making**: Provide leaders and teams with the information they need to make impactful changes.
 
 ---
 
