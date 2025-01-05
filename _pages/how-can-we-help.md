@@ -6,6 +6,8 @@ description: "Learn, grow, and transform with tailored workshops, hands-on enabl
 classes: wide
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
+sidebar:
+  nav: how-can-we-help
 redirect_from:
   - /training
 ---

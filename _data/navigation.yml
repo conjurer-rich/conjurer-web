@@ -1,8 +1,8 @@
 main:
+  - title: "Our approach"
+    url: /sense-share-solve
   - title: "How can we help"
     url: /how-can-we-help
-  - title: "Sense it, Share it, Solve It"
-    url: /sense-share-solve
   - title: "Contact"
     url: /contact
 

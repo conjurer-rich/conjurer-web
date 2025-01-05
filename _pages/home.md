@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Conjurer Solutions"
+title: "We empower fast growing tech organizations to cultivate happier, more effective teams."
 layout: splash
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
