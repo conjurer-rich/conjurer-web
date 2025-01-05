@@ -2,8 +2,8 @@
 layout: single
 title: "Solve It: Implementing Sustainable Solutions"
 permalink: /sense-share-solve/solve-it/
-author_profile: true
 toc: true
+toc_sticky: true
 sidebar:
   nav: sense-share-solve
 description: "Learn how to solve blockers through collaboration, minimizing dependencies, and optimizing team boundaries to achieve faster flow and reduced cognitive load."

@@ -2,6 +2,8 @@
 layout: splash
 title: "Sense It, Share It, Solve It"
 permalink: /sense-share-solve/
+header: 
+  overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
 author_profile: true
 toc: true
 sidebar:
@@ -47,4 +49,4 @@ By adopting this framework, you can:
 
 Explore the individual phases to get started, or join one of our workshops to see how **Sense It, Share It, Solve It** can transform your organization.
 
-[Learn More About Our Workshops](workshops.md)
+[Learn More About Our Workshops](/workshops)

@@ -5,9 +5,7 @@ layout: splash
 description: "Learn, grow, and transform with tailored workshops, hands-on enablement, and expert consultancy."
 classes: wide
 header: 
-  overlay_color: "#0EA2F1"
-  overlay_filter: rgba(14,162,241,0.6)
-  overlay_image: /assets/images/workshop-talking.jpg
+  overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
 redirect_from:
   - /training
 ---

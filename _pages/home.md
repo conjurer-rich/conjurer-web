@@ -3,15 +3,13 @@ permalink: /
 title: "Conjurer Solutions"
 layout: splash
 header: 
-  overlay_color: "#0EA2F1"
-  overlay_filter: rgba(14,162,241,0.6)
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
   actions: 
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: 
+    - label: "<i class='fas fa-address-book'></i> Get in touch"
+      url: /contact
 exerpt: >
   We empower fast growing tech organizations to cultivate happier, more effective teams.
-
+description: 
 ---
 
 ## Welcome to Conjurer Solutions

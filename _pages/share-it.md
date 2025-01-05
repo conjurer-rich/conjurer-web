@@ -2,8 +2,8 @@
 layout: single
 title: "Share It: Communicate Challenges and Insights"
 permalink: /sense-share-solve/share-it/
-author_profile: true
 toc: true
+toc_sticky: true
 sidebar:
   nav: sense-share-solve
 description: "Learn how to share observations of blockers using tools like team interaction modeling and value stream mapping, fostering a shared understanding of challenges."

@@ -74,8 +74,8 @@ plugins:
 
 author:
   name   : "Rich Allen"
-  avatar : "/assets/images/Rich Allen Profile - Cropped Square - Colour.jpeg"
-  bio    : "Team Topologies Valued Practitioner."
+  avatar : "/assets/images/profiles/Rich Allen Profile - Cropped Square - Colour.jpeg"
+  bio    : "Helping fast growing tech companies cultivate happier more effective teams."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

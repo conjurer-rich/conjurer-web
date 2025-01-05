@@ -2,14 +2,12 @@
 layout: single
 title: "Sense It: Recognize Blockers to Flow"
 permalink: /sense-share-solve/sense-it/
-author_profile: true
 toc: true
+toc_sticky: true
 sidebar:
   nav: sense-share-solve
 description: "Learn how to recognize blockers to the flow of value by sensing awkward interactions, dependencies, and inefficiencies in your team's workflows."
 ---
-
-# Sense It: Recognize Blockers to Flow
 
 The **Sense It** phase is the first step in the **Sense It, Share It, Solve It** framework. It’s about becoming attuned to the subtle and not-so-subtle signals that indicate something isn’t working as it should. These signals can take many forms, from recurring delays to awkward team interactions. By sharpening your ability to sense these issues, you can identify opportunities for improvement before they escalate into bigger problems.
 
