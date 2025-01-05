@@ -9,7 +9,7 @@ header:
       url: /contact
 exerpt: >
   We empower fast growing tech organizations to cultivate happier, more effective teams.
-client_row:
+clients_row:
   - image_path: /assets/images/client-logos/code-intelligence.png
     alt: "Code Intelligence logo"
     title: "Code Intelligence"
