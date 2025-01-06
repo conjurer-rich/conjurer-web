@@ -5,7 +5,7 @@ layout: splash
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
   actions: 
-    - label: "<i class='fas fa-address-book'></i> Learn more"
+    - label: "<i class='fas fa-question-circle'></i> Learn more"
       url: /our-approach
 excerpt: >   
     We empower fast growing tech organizations to cultivate <strong>happier</strong>, <strong>more effective</strong> teams.
