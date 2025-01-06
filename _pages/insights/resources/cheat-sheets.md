@@ -38,7 +38,7 @@ Here’s a sneak peek at the cheat sheets we’re crafting:
 
 We’re putting the finishing touches on these time-saving resources, and they’ll be live soon. Want to be the first to grab them?
 
-{% include waitlist-insights-signup %}
+{% include waitlist-insights-signup.html %}
 
 ---
 
