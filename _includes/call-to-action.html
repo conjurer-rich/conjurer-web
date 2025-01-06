@@ -1,14 +1,2 @@
-{% if include.text == '' %}
-  {% assign text = 'Learn more' %}
-{% endif %}
-
-{% if include.button_type == '' %}
-  {% assign button_type = 'info' %}
-{% endif %}
-
-{% if include.alignment == '' %}
-  {% assign alignment = 'center' %}
-{% endif %}
-
-[{{ include.name }}]({{ include.link}}){: .btn .btn--{{ include.button_type }}}
-{: .text-{{ include.alignment }}}
+[{{ include.text | 'Learn more' }}]({{ include.link}}){: .btn .btn--{{ include.button_type | 'info' }}}
+{: .text-{{ include.alignment | 'center' }}}
