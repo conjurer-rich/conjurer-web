@@ -41,7 +41,7 @@ Success lies in embracing adaptability. This requires more than just reacting to
 
 ## 🔎 Sense It, 🗣️ Share It, 🤝 Solve It: Our framework for continuous evolution
 
-We introduce the **Sense it, Share it, Solve it** approach to help organizations build the capabilities needed to keep pace with the rate of change.
+We introduce the [**Sense it, Share it, Solve it**](/sense-share-solve) approach to help organizations build the capabilities needed to keep pace with the rate of change.
 
 ### **🔎 Sense It**
 
@@ -51,6 +51,8 @@ Developing the ability to perceive changes in your environment, both internal an
 - Recognizing team and organizational dynamics.  
 - Leveraging data and feedback to inform decision-making.  
 
+{% include call-to-action.html text="Learn more about Sense it" link="/sense-share-solve/sense-it" %}
+
 ### **🗣️ Share It**
 
 Fostering a culture of transparency and collaboration where information flows freely. This involves:
@@ -58,6 +60,8 @@ Fostering a culture of transparency and collaboration where information flows fr
 - Breaking down silos to encourage cross-team alignment.  
 - Sharing insights and lessons learned.  
 - Building trust and psychological safety to support open communication.  
+
+{% include call-to-action.html text="Learn more about Share it" link="/sense-share-solve/share-it" %}
 
 ### **🤝 Solve It**
 
@@ -67,11 +71,13 @@ Equipping teams with the tools and autonomy to address challenges effectively. T
 - Aligning problem-solving efforts with organizational goals.  
 - Continuously iterating and improving systems and processes.  
 
+{% include call-to-action.html text="Learn more about Solve it" link="/sense-share-solve/solve-it" %}
+
 ---
 
-## Why this approach matters
+## Why this matters
 
-The **Sense it, Share it, Solve it** framework ensures that your organization is not only reactive but also proactive in addressing change. By focusing on these key capabilities, you can:
+The **Sense it, Share it, Solve it** approach ensures that your organization is not only reactive but also proactive in addressing change. By focusing on these key capabilities, you can:
 
 - Build resilience to handle uncertainty.  
 - Create a culture of innovation and adaptability.  
@@ -79,13 +85,13 @@ The **Sense it, Share it, Solve it** framework ensures that your organization is
 
 ---
 
-## How We Work with You
+## How we work with you
 
 At Conjurer, our approach is collaborative and tailored to your needs. We partner with you to:
 
 1. Assess your organization’s current capabilities.  
 2. Identify opportunities to enhance adaptability.  
-3. Guide you in implementing the **Sense it, Share it, Solve it** framework.  
+3. Guide you in implementing **Sensing, Sharing, Solving** practices within your organization.  
 
 Our goal is to empower your teams to navigate change confidently and sustainably.  
 
@@ -95,4 +101,4 @@ Our goal is to empower your teams to navigate change confidently and sustainably
 
 The world is changing faster than ever—your organization can, too. With the right capabilities in place, you can embrace change as an opportunity for growth.  
 
-[Contact Us to Learn More](/contact)
+{% include call-to-action.html text="Contact us to learn more" link="/contact" %}

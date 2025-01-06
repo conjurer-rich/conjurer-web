@@ -51,13 +51,11 @@ At Conjurer, we believe people are more than cogs in a machine—they are the he
 
 ---
 
-## How We Help
+## How we help
 
 {% include feature_row %}
 
----
-
-## Why Choose Us?
+## Why choose us?
 
 - **People first**: We put your teams at the center of every solution.
 - **Innovative methods**: Grounded in proven principles for organizational success.
@@ -65,7 +63,7 @@ At Conjurer, we believe people are more than cogs in a machine—they are the he
 
 ---
 
-## Who We Help
+## Who we help
 
 We specialize in supporting senior leaders and decision-makers who are:
 
@@ -77,7 +75,7 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 ---
 
-## Some Happy Clients
+## Some happy clients
 
 {% include gallery id="clients_gallery" %}
 
