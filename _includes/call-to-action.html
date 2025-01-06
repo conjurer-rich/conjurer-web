@@ -1,8 +1,11 @@
-{% assign size = include.size | "" %}
-{% assign type = include.type | "info" %}
-{% assign button_type = {{ ".btn--" | append: type }} %}
-
-[{{ include.text | 'Learn more' }}]({{ include.link }}){: .btn {{ button_type }} }
 {% if include.align == 'center' %}
-    {: .text-center}
+<div class="align-center">
+  <a href="{{ include.link }}" class="btn {{ include.button_class | btn--Primary }}">
+    {{ include.text }}
+  </a>
+</div>
+{% else %}
+  <a href="{{ include.link }}" class="btn {{ include.button_class | btn--Primary }}">
+    {{ include.text | "Learn more" }}
+  </a>
 {% endif %}
