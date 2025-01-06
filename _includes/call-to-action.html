@@ -1,2 +1,11 @@
-[{{ include.text | 'Learn more' }}]({{ include.link}}){: .btn .btn--{{ include.button_type | 'info' }}}
-{: .text-{{ include.alignment | 'center' }}}
+{% assign size = include.size | "" %}
+{% assign type = include.type | "info" %}
+{% assign button_type = "btn--{{ type }}" %}
+
+{% if include.align == 'center' %}
+<center>
+  <a href="{{ include.link}}" class="btn {{ size }} {{ button_type }}">{{ include.text | 'Learn more' }}</a>
+</center>
+{% else %}
+    <a href="{{ include.link}}" class="btn {{ button_type }}">{{ include.text | 'Learn more' }}</a>
+{% endif %}
