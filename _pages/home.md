@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "We empower fast growing tech organizations to cultivate happier, more effective teams."
+title: Adding the magic to make your business flow
 layout: splash
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
   actions: 
-    - label: "<i class='fas fa-address-book'></i> Get in touch"
-      url: /contact
-exerpt: >
-  We empower fast growing tech organizations to cultivate happier, more effective teams.
+    - label: "<i class='fas fa-address-book'></i> Learn more"
+      url: /our-approach
+excerpt: >   
+    We empower fast growing tech organizations to cultivate <strong>happier</strong>, <strong>more effective</strong> teams.
 clients_gallery:
   - image_path: /assets/images/client-logos/code-intelligence.png
     url: /assets/images/client-logos/code-intelligence.png
