@@ -85,4 +85,4 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 Join the growing number of businesses creating better workplaces—for their people, their teams, and their results.
 
-{% include call-to-action.md text="Get Started Today" link="/contact" align="center"}
+{% include call-to-action.md text="Get Started Today" link="/contact" align="center" %}
