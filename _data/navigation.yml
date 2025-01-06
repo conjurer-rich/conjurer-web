@@ -16,13 +16,15 @@ how-can-we-help:
   - title: "Consultancy"
     url: /how-can-we-help/consultancy
 
-sense-share-solve:
-  - title: "🔍 Sense it"
-    url: /sense-share-solve/sense-it
-  - title: "🗣 Share it"
-    url: /sense-share-solve/share-it
-  - title: "🤝 Solve it"
-    url: /sense-share-solve/solve-it
+our-approach:
+  - title: Sense it, Share it, Solve it
+    children:
+    - title: "🔍 Sense it"
+      url: /sense-share-solve/sense-it
+    - title: "🗣 Share it"
+      url: /sense-share-solve/share-it
+    - title: "🤝 Solve it"
+      url: /sense-share-solve/solve-it
 
 insights:
   - title: "Articles"

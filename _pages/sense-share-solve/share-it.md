@@ -5,7 +5,7 @@ permalink: /sense-share-solve/share-it/
 toc: true
 toc_sticky: true
 sidebar:
-  nav: sense-share-solve
+  nav: our-approach
 description: "Learn how to share observations of blockers using tools like team interaction modeling and value stream mapping, fostering a shared understanding of challenges."
 ---
 

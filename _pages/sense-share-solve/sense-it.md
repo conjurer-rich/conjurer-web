@@ -5,7 +5,7 @@ permalink: /sense-share-solve/sense-it/
 toc: true
 toc_sticky: true
 sidebar:
-  nav: sense-share-solve
+  nav: our-approach
 description: "Learn how to recognize blockers to the flow of value by sensing awkward interactions, dependencies, and inefficiencies in your team's workflows."
 ---
 

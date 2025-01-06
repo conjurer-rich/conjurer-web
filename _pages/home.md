@@ -9,6 +9,30 @@ header:
       url: /our-approach
 excerpt: >   
     We empower fast growing tech organizations to cultivate <strong>happier</strong>, <strong>more effective</strong> teams.
+
+feature_row:
+  - title: Enablement
+    image_path: 
+    alt: enablement
+    excerpt: We provide expert guidance on the core principles of organizational dynamics, helping your teams work more effectively together and adapt to change with confidence.
+    url: /enablement
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - title: Workshops
+    image_path: 
+    alt: workshops
+    excerpt: Our transformative group workshops are designed to foster collaboration, alignment, and lasting change. We guide teams to apply innovative practices tailored to their unique challenges.
+    url: /workshops
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - title: Tailored strategies
+    image_path: 
+    alt: tailored strategies
+    excerpt: Every organization is unique. We create bespoke strategies to align team dynamics with business goals, enabling sustainable growth and meaningful outcomes.
+    url: /workshops
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
 clients_gallery:
   - image_path: /assets/images/client-logos/code-intelligence.png
     url: /assets/images/client-logos/code-intelligence.png
@@ -29,19 +53,7 @@ At Conjurer, we believe people are more than cogs in a machine—they are the he
 
 ## How We Help
 
-### Education  
-
-We provide expert guidance on the core principles of organizational dynamics, helping your teams work more effectively together and adapt to change with confidence.
-
-### Workshops  
-
-Our transformative group workshops are designed to foster collaboration, alignment, and lasting change. We guide teams to apply innovative practices tailored to their unique challenges.
-
-### Tailored strategies  
-
-Every organization is unique. We create bespoke strategies to align team dynamics with business goals, enabling sustainable growth and meaningful outcomes.
-
-{% include call-to-action.html text="Learn more about our approach" link="/our-approach" %}
+{% include feature_row %}
 
 ---
 
@@ -73,5 +85,4 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 Join the growing number of businesses creating better workplaces—for their people, their teams, and their results.
 
-[Get Started Today](/contact){: .btn .btn--success}
-{: .text-center}
+{% include call-to-action.md text="Get Started Today" link="/contact" align="center"}

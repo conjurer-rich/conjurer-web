@@ -5,7 +5,7 @@ permalink: /sense-share-solve/solve-it/
 toc: true
 toc_sticky: true
 sidebar:
-  nav: sense-share-solve
+  nav: our-approach
 description: "Learn how to solve blockers through collaboration, minimizing dependencies, and optimizing team boundaries to achieve faster flow and reduced cognitive load."
 ---
 
