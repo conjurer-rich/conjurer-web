@@ -67,7 +67,7 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 ---
 
-## Happy Clients
+## Some Happy Clients
 
 {% include gallery id="clients_gallery" %}
 
