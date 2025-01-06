@@ -1,6 +1,6 @@
 ---
 permalink: /how-can-we-help
-title: "Empowering Teams, Streamlining Workflows, Delivering Value."
+title: "Empowering teams, streamlining Workflows, delivering Value."
 layout: splash
 description: "Learn, grow, and transform with tailored workshops, hands-on enablement, and expert consultancy."
 classes: wide
@@ -13,9 +13,9 @@ redirect_from:
   - /how-we-can-help
 ---
 
-## How We Can Help
+## How we can help
 
-At Conjurer Solutions, we specialize in empowering organizations to evolve into thriving ecosystems. Our services are designed to meet you where you are and provide the tools, insights, and support needed to achieve sustainable growth and transformation.
+At Conjurer, we specialize in empowering organizations to evolve into thriving ecosystems. Our services are designed to meet you where you are and provide the tools, insights, and support needed to achieve sustainable growth and transformation.
 
 ---
 
