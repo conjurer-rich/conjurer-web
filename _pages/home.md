@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Adding the magic to make your business flow
+title: Adding the magic to help your business flow
 layout: splash
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
@@ -41,6 +41,10 @@ Our transformative group workshops are designed to foster collaboration, alignme
 
 Every organization is unique. We create bespoke strategies to align team dynamics with business goals, enabling sustainable growth and meaningful outcomes.
 
+{% include call-to-action-our-approach %}
+[Learn more about our approach](/contact){: .btn .btn--info}
+{: .text-center}
+
 ---
 
 ## Why Choose Us?
@@ -71,4 +75,5 @@ Our clients include organizations in technology, finance, and healthcare sectors
 
 Join the growing number of businesses creating better workplaces—for their people, their teams, and their results.
 
-[Get Started Today](/contact)
+[Get Started Today](/contact){: .btn .btn--success}
+{: .text-center}

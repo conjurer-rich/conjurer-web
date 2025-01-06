@@ -1,10 +1,10 @@
 main:
   - title: "Our approach"
     url: /our-approach
-  - title: "Insights"
-    url: /insights
   - title: "How we can help"
     url: /how-can-we-help
+  - title: "Insights"
+    url: /insights
   - title: "Contact"
     url: /contact
 

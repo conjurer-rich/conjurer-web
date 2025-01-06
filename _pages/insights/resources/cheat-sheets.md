@@ -36,9 +36,9 @@ Here’s a sneak peek at the cheat sheets we’re crafting:
 
 ## Be the First to Access Them!
 
-We’re putting the finishing touches on these time-saving resources, and they’ll be live soon. Want to be the first to grab them? 
+We’re putting the finishing touches on these time-saving resources, and they’ll be live soon. Want to be the first to grab them?
 
-<script async data-uid="06c268f237" src="https://betterteamdynamics.kit.com/06c268f237/index.js"></script>
+{% include waitlist-insights-signup %}
 
 ---
 
