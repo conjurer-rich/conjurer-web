@@ -1,12 +1,11 @@
-{% assign button_class = include.button_class | "btn--Primary" %}
 {% if include.align == 'center' %}
 <div class="align-center">
-  <a href="{{ include.link }}" class='btn {{ button_class  }}'>
+  <a href="{{ include.link }}" class="btn {{ include.button_class | default: 'btn--Primary' }}">
     {{ include.text }}
   </a>
 </div>
 {% else %}
-  <a href="{{ include.link }}" class='btn {{ button_class }}'>
+  <a href="{{ include.link }}" class="btn {{ include.button_class | default: 'btn--Primary' }}">
     {{ include.text | "Learn more" }}
   </a>
 {% endif %}
