@@ -41,9 +41,7 @@ Our transformative group workshops are designed to foster collaboration, alignme
 
 Every organization is unique. We create bespoke strategies to align team dynamics with business goals, enabling sustainable growth and meaningful outcomes.
 
-{% include call-to-action-our-approach %}
-[Learn more about our approach](/contact){: .btn .btn--info}
-{: .text-center}
+{% include call-to-action.html text="Learn more about our approach" link="/our-approach" %}
 
 ---
 
