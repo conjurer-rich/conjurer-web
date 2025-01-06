@@ -22,6 +22,12 @@ Install Docker Desktop on MacOS:
 \$ brew install --cask docker
 ```
 
+Ensure Ruby, Ruby Devkit and Jekyll gems are all installed. Also ensure you run the following to be sure the latest gems are installed.
+
+```pwsh
+bundle update
+```
+
 ### Day-to-day Development
 
 To run a server locally:
