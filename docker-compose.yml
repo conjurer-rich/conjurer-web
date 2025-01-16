@@ -4,10 +4,10 @@ services:
   site:
     build: .
     image: conjurer/conjurer-web.org:latest
-    command: bundle exec jekyll serve --trace --host 0.0.0.0 --watch --incremental
+    command: bundle exec jekyll serve --trace --host 0.0.0.0 --watch --incremental --port 4001
     environment:
       - JEKYLL_ENV=development
     volumes:
       - ./:/srv/jekyll
     ports:
-      - 4000:4000
+      - 4001:4001
