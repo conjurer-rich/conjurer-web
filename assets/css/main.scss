@@ -5,7 +5,24 @@ search: false
 
 @charset "utf-8";
 
+$body-color: #000;
 $primary-color: #0EA2F1;
+$call-to-action-color: #0EA2F1;
 
+@import "author";
+@import "flex_grid";
+@import "quote_wrapper";
+@import "titles";
+@import "sections";
+@import "call-to-action";
+@import "alignment";
+@import "buttons";
+@import "training-topics";
+@import "topics-grid";
+@import "facilitators";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "page__content";
+@import "feature_row";
+@import "page__footer";
+@import "page__hero";

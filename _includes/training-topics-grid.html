@@ -1,0 +1,32 @@
+<section class="training-topics {% if include.section_class %}{{ include.section_class }}{% endif %}">
+  <div class="container">
+    {% if include.title %}
+    <h2 class="training-topics__title">{{ include.title }}</h2>
+    {% endif %}
+    
+    <div class="training-topics__grid">
+      <!-- First row -->
+      <div class="training-topics__row">
+        {% for topic in include.primary_topics %}
+        <div class="topic-card topic-card--primary">
+          <h3>{{ topic.title }}</h3>
+          {% if topic.icon %}
+          <div class="topic-card__icon">
+            <img src="{{ topic.icon }}" alt="Add icon">
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      
+      <!-- Second row -->
+      <div class="training-topics__row">
+        {% for topic in include.secondary_topics %}
+        <div class="topic-card topic-card--secondary">
+          <h3>{{ topic.title }}</h3>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section> 

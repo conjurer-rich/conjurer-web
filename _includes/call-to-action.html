@@ -1,11 +1,32 @@
-{% if include.align == 'center' %}
-<div class="align-center">
-  <a href="{{ include.link }}" class="btn {{ include.button_class | default: 'btn--Primary' }}">
-    {{ include.text }}
-  </a>
+
+{% assign section_wrap = include.section_wrap | default: true %}
+{% if section_wrap %}
+<div class="section" {% if include.id %}id="{{ include.id }}"{% endif %}>
+  <div class="container">
+{% endif %}
+    <div class="content">
+
+    {% if include.title %}
+      <h2>{{ include.title }}</h2>
+    {% endif %}
+      <div class="cta-wrapper {% if include.align == 'center' %}align-center{% endif %}">
+  {% if include.main_content %}
+        <p class="cta-text">{{ include.main_content | markdownify }}</p>
+  {% endif %}
+  {% if include.url and include.button_text %}
+        <a href="{{ include.url }}" class="btn btn--primary">{{ include.button_text }}</a>
+  {% endif %}
+  {% if include.secondary_url and include.secondary_button_text %}
+    {{include.secondary_button_prefix}}
+        <a href="{{ include.secondary_url }}" class="btn btn--inverse">{{ include.secondary_button_text }}</a>
+    {% if include.secondary_postfix_text %}
+       {{include.secondary_postfix_text}}
+    {% endif %}
+  {% endif %}       
+        </div>
+
+    </div>
+    {% if section_wrap %}
+  </div>
 </div>
-{% else %}
-  <a href="{{ include.link }}" class="btn {{ include.button_class | default: 'btn--Primary' }}">
-    {{ include.text | "Learn more" }}
-  </a>
 {% endif %}

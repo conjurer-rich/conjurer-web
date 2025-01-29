@@ -51,7 +51,7 @@ Developing the ability to perceive changes in your environment, both internal an
 - Recognizing team and organizational dynamics.  
 - Leveraging data and feedback to inform decision-making.  
 
-{% include call-to-action.html text="Learn more about Sense it" link="/sense-share-solve/sense-it" %}
+{% include call-to-action.html button_text="Learn more about Sense it" url="/sense-share-solve/sense-it" %}
 
 ### **🗣️ Share It**
 
@@ -61,7 +61,7 @@ Fostering a culture of transparency and collaboration where information flows fr
 - Sharing insights and lessons learned.  
 - Building trust and psychological safety to support open communication.  
 
-{% include call-to-action.html text="Learn more about Share it" link="/sense-share-solve/share-it" %}
+{% include call-to-action.html button_text="Learn more about Share it" url="/sense-share-solve/share-it" %}
 
 ### **🤝 Solve It**
 
@@ -71,7 +71,7 @@ Equipping teams with the tools and autonomy to address challenges effectively. T
 - Aligning problem-solving efforts with organizational goals.  
 - Continuously iterating and improving systems and processes.  
 
-{% include call-to-action.html text="Learn more about Solve it" link="/sense-share-solve/solve-it" %}
+{% include call-to-action.html button_text="Learn more about Solve it" url="/sense-share-solve/solve-it" %}
 
 ---
 
@@ -101,4 +101,4 @@ Our goal is to empower your teams to navigate change confidently and sustainably
 
 The world is changing faster than ever—your organization can, too. With the right capabilities in place, you can embrace change as an opportunity for growth.  
 
-{% include call-to-action.html text="Contact us to learn more" link="/contact" %}
+{% include call-to-action.html button_text="Contact us to learn more" url="/contact" %}

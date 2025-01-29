@@ -1,0 +1,34 @@
+<div class="topics-grid {% if include.section_class %}{{ include.section_class }}{% endif %}">
+  <div class="container">
+    {% if include.title %}
+    <h2 class="topics-grid__title">{{ include.title }}</h2>
+    {% endif %}
+    
+    <div class="topics-grid__grid">
+      <!-- First row -->
+      <div class="topics-grid__row">
+        {% for topic in include.primary_topics %}
+        <div class="topic-card topic-card--primary" 
+             {% if include.primary_color %}style="background-color: {{ include.primary_color }};"{% endif %}>
+          <h3 {% if include.primary_color %}style='color: {{ include.primary_text_color | default: "#FFFFFF" }}'{% endif %}>{{ topic.title }}</h3>
+          {% if topic.icon %}
+          <div class="topic-card__icon">
+            <img src="{{ topic.icon }}" alt="Add icon">
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+      
+      <!-- Second row -->
+      <div class="topics-grid__row">
+        {% for topic in include.secondary_topics %}
+        <div class="topic-card topic-card--secondary"
+             {% if include.secondary_color %}style="background-color: {{ include.secondary_color }};"{% endif %}>
+          <h3>{{ topic.title }}</h3>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div> 
