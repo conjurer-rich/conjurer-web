@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Turning challenges into opportunities: A approach for lasting change."
+title: "Turning <span style='color:#0EA2F1'><strong>challenges</strong></span> into <span style='color:#0EA2F1'><strong>opportunities</strong></span>"
 permalink: /sense-share-solve/
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
@@ -8,20 +8,16 @@ author_profile: true
 toc: true
 sidebar:
   nav: our-approach
-excerpt: "An introduction to the Sense It, Share It, Solve It approach, designed to help teams identify blockers, share challenges, and implement collaborative solutions for improved flow and efficiency."
+excerpt: "🔍 Sense It, 🗣 Share It, 🤝 Solve It: A simple approach for adaptive organizations to achieve <span style='color:#0EA2F1'><strong>lasting change</strong></span>."
 ---
 
-Welcome to the **🔍 Sense It, 🗣 Share It, 🤝 Solve It** approach guide to identifying and overcoming blockers that slow down the flow of value in your organization. This approach empowers teams to detect challenges, communicate effectively, and collaborate on actionable solutions that drive continuous improvement.
+## What is 🔍 Sense It, 🗣 Share It, 🤝 Solve It?
 
----
+The **Sense It, Share It, Solve It** approach is designed to:
 
-## What is Sense It, Share It, Solve It?
-
-The **Sense It, Share It, Solve It** approach is a structured process designed to:
-
-- **Sense It**: Recognize subtle or obvious signals that something isn’t flowing as smoothly as it should. These might be awkward interactions, recurring delays, or unspoken frustrations.
-- **Share It**: Foster open and transparent communication by visualizing and discussing challenges. Use proven techniques to explore the underlying root causes of the issues.
-- **Solve It**: Collaboratively develop and implement solutions that reduce cognitive load, minimize dependencies, and streamline workflows.
+- Recognize subtle or obvious signals that something isn’t flowing as smoothly as it should. These might be awkward interactions, recurring delays, or unspoken frustrations.
+- Foster open and transparent communication by visualizing and discussing challenges. Use proven techniques to explore the underlying root causes of the issues.
+- Collaboratively develop and implement solutions that reduce cognitive load, minimize dependencies, and streamline workflows.
 
 ---
 
