@@ -12,7 +12,7 @@ header:
   #    url: /quick-start-guide
 excerpt: > 
   Unlock <span style="color:#0EA2F1">**fast flow**</span> and <span style="color:#0EA2F1">  
-  
+
   **adaptive organizational dynamics**</span>
 feature_row:
   - alt: "training"
@@ -105,15 +105,11 @@ facilitators:
     - name: "Erica Engelen"
       image: "/assets/images/facilitators/erica_engelen.png"
       linkedin: "https://www.linkedin.com/in/ericaengelen/"
-#    - name: "João Rosa"
-#      image: "/assets/images/facilitators/joão_rosa.jpeg"
-#    - name: "Eduardo da Silva"
-#      image: "/assets/images/facilitators/eduardo_da_silva.png"
-#    - name: "Susanne Kaiser"
-#      image: "/assets/images/facilitators/susanne_kaiser.png"
-#    - name: "Kenny Baas-Schwegler"
-#      image: "/assets/images/facilitators/kenny_baas_schwegler.png"
 ---
+
+{% include section.html
+  main_content="At Conjurer, we are experts in helping organizations build and manage **socio-technical systems** through the application of **Team Topologies principles and practices**. Through our hands-on experience we can help your organization to become more **adaptive, faster and happier** via our training, workshops and enablement services."
+%}
 
 {% include feature_row %}
 
