@@ -82,18 +82,18 @@ enabling_quote_list:
     Syngenta Digital"
 
 workshop_gallery:
-  - url: /assets/images/workshops/workshop-writing.jpg
-    image_path: /assets/images/workshops/workshop-writing.jpg
-    alt: "Workshop writing"
-    title: "Workshop writing"
-  - url: /assets/images/workshops/workshop-cirlce.jpg
-    image_path: /assets/images/workshops/workshop-circle.jpg
+  - url: /assets/images/workshops/workshop_tim.jpg
+    image_path: /assets/images/workshops/workshop_tim.jpg
+    alt: "Workshop Team Interaction Modelling"
+    title: "Workshop Team Interaction Modelling"
+  - url: /assets/images/workshops/workshop_pointing_1.jpg
+    image_path: /assets/images/workshops/workshop_pointing_1.jpg
     alt: "Workshop circle"
     title: "Workshop circle"
-  - url: /assets/images/workshops/workshop_around_desk.jpg
-    image_path: /assets/images/workshops/workshop_around_desk.jpg
-    alt: "Workshop around desk"
-    title: "Workshop around desk"
+  - url: /assets/images/workshops/workshop_wide_tables.jpg
+    image_path: /assets/images/workshops/workshop_wide_tables.jpg
+    alt: "Workshop wide tables"
+    title: "Workshop wide tables"
 
 facilitators:
   title: "FACILITATORS"
@@ -108,7 +108,7 @@ facilitators:
 ---
 
 {% include section.html
-  main_content="At Conjurer, we are experts in helping organizations build and manage **socio-technical systems** through the application of **Team Topologies principles and practices**. Through our hands-on experience we can help your organization to become more **adaptive, faster and happier** via our training, workshops and enablement services."
+  main_content="We are experts in helping organizations build and manage **socio-technical systems** through the application of **Team Topologies principles and practices**. Through our hands-on experience we can help your organization to become more **adaptive, faster and happier** via our training, workshops and enablement services."
 %}
 
 {% include feature_row %}

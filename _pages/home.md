@@ -62,7 +62,7 @@ quote-list:
 {% include section.html
     main_content="## Evolve your workplace into a thriving ecosystem
 
-At Conjurer, we believe people are more than cogs in a machine—they are the heart of a vibrant ecosystem that thrives on empowerment, autonomy, and respect. Our mission is to make workplaces more humane and joyful, helping organizations unlock their full potential."
+We believe people are more than cogs in a machine—they are the heart of a vibrant ecosystem that thrives on empowerment, autonomy, and respect. Our mission is to make workplaces more humane and joyful, helping organizations unlock their full potential."
 %}
 
 {% include feature_row %}

@@ -11,7 +11,7 @@ sidebar:
 description: "An introduction to Conjurer's approach to enabling adaptive organizations."
 ---
 
-At Conjurer, we recognize that organizations are **socio-technical systems**—a complex interplay of people, processes, and technology. To thrive, organizations must evolve in harmony with the ever-changing environment in which they operate.  
+We recognize that organizations are **socio-technical systems**—a complex interplay of people, processes, and technology. To thrive, organizations must evolve in harmony with the ever-changing environment in which they operate.  
 
 ---
 
