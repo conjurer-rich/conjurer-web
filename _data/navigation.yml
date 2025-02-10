@@ -3,24 +3,16 @@ main:
     url: /team-topologies-applied
   - title: "Our approach"
     url: /our-approach
-  - title: "How we can help"
-    url: /how-can-we-help
   - title: "Insights"
     url: /insights
   - title: "Contact"
     url: /contact
 
-how-can-we-help:
-  - title: "Workshops"
-    url: /how-can-we-help/workshops
-  - title: "Enablement"
-    url: /how-can-we-help/enablement
-  - title: "Consultancy"
-    url: /how-can-we-help/consultancy
-
 our-approach:
   - title: Sense it, Share it, Solve it
     children:
+    - title: "Overview"
+      url: /sense-share-solve
     - title: "🔍 Sense it"
       url: /sense-share-solve/sense-it
     - title: "🗣 Share it"

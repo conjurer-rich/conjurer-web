@@ -2,8 +2,9 @@
 layout: single
 title: "🤝 Solve It: Implementing Sustainable Solutions"
 permalink: /sense-share-solve/solve-it/
-toc: true
-toc_sticky: true
+toc: false  
+toc_sticky: false
+classes: wide
 sidebar:
   nav: our-approach
 description: "Learn how to solve blockers through collaboration, minimizing dependencies, and optimizing team boundaries to achieve faster flow and reduced cognitive load."
@@ -64,6 +65,8 @@ Addressing root causes is essential for driving real change. By implementing sol
 
 The **🤝 Solve It** phase completes the **Sense It, Share It, Solve It** approach, but the journey doesn’t end here. Continuous improvement is key to maintaining fast flow and efficiency in dynamic environments.
 
-Ready to apply these strategies? Join one of our **[workshops](/workshops/)** to see how Sense It, Share It, Solve It can transform your organization.
+Ready to apply these strategies? Join one of our **[workshops](/team-topologies-applied#workshops)** to see how Sense It, Share It, Solve It can transform your organization.
 
 Explore the entire **[Sense It, Share It, Solve It approach](/sense-share-solve/)** and drive meaningful change today.
+
+{% include call-to-action.html button_text="Contact us to learn more" url="/contact" title="Looking to improve your team's flow? Let's talk." %}

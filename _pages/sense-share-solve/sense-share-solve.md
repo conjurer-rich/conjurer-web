@@ -1,13 +1,14 @@
 ---
-layout: splash
 title: "Turning <span style='color:#0EA2F1'><strong>challenges</strong></span> into <span style='color:#0EA2F1'><strong>opportunities</strong></span>"
 permalink: /sense-share-solve/
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
-author_profile: true
-toc: true
+author_profile: false
+toc: false
 sidebar:
   nav: our-approach
+layout: single
+classes: wide
 excerpt: "🔍 Sense It, 🗣 Share It, 🤝 Solve It: A simple approach for adaptive organizations to achieve <span style='color:#0EA2F1'><strong>lasting change</strong></span>."
 ---
 
@@ -45,4 +46,4 @@ By adopting this approach, you can:
 
 Explore the individual phases to get started, or join one of our workshops to see how **Sense It, Share It, Solve It** can transform your organization.
 
-[Learn More About Our Workshops](/workshops)
+[Learn More About Our Workshops](/team-topologies-applied#workshops)

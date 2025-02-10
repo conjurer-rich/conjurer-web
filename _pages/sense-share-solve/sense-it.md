@@ -2,8 +2,9 @@
 layout: single
 title: "🔍 Sense It: Recognize Blockers to Flow"
 permalink: /sense-share-solve/sense-it/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
+classes: wide
 sidebar:
   nav: our-approach
 description: "Learn how to recognize blockers to the flow of value by sensing awkward interactions, dependencies, and inefficiencies in your team's workflows."
@@ -52,3 +53,5 @@ By improving your ability to sense blockers to flow, you enable your organizatio
 Once you’ve identified the signals of inefficiencies, the next step is to **[🗣 Share It](/sense-share-solve/share-it/)**. This involves communicating your observations effectively, using tools like team interaction modeling and value stream mapping to ensure a shared understanding of the problem.
 
 Ready to dive deeper? Explore the full **[Sense It, Share It, Solve It approach](/sense-share-solve/)** to optimize your team’s workflow and minimize blockers to value delivery.
+
+{% include call-to-action.html button_text="Contact us to learn more" url="/contact" title="Looking to improve your team's flow? Let's talk." %}

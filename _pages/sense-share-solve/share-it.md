@@ -2,8 +2,9 @@
 layout: single
 title: "🗣 Share It: Communicate Challenges and Insights"
 permalink: /sense-share-solve/share-it/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
+classes: wide
 sidebar:
   nav: our-approach
 description: "Learn how to share observations of blockers using tools like team interaction modeling and value stream mapping, fostering a shared understanding of challenges."
@@ -56,3 +57,5 @@ Imagine a team struggles with frequent delays due to unclear ownership of a key 
 After achieving a shared understanding of the challenges, it’s time to **[Solve It](/sense-share-solve/solve-it/)**. This phase focuses on collaboratively implementing changes to minimize dependencies, reduce cognitive load, and optimize workflows.
 
 Explore the next step in the **[Sense It, Share It, Solve It approach](/sense-share-solve/)** to drive real change in your organization.
+
+{% include call-to-action.html button_text="Contact us to learn more" url="/contact" title="Looking to improve your team's flow? Let's talk." %}
