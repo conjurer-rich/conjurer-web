@@ -88,8 +88,8 @@ workshop_gallery:
     title: "Workshop Team Interaction Modelling"
   - url: /assets/images/workshops/workshop_pointing_1.jpg
     image_path: /assets/images/workshops/workshop_pointing_1.jpg
-    alt: "Workshop circle"
-    title: "Workshop circle"
+    alt: "Workshop helping teams understand each other"
+    title: "Workshop helping teams understand each other"
   - url: /assets/images/workshops/workshop_wide_tables.jpg
     image_path: /assets/images/workshops/workshop_wide_tables.jpg
     alt: "Workshop wide tables"
@@ -187,8 +187,8 @@ facilitators:
   **What else do I get?**  
   Aside from the best training in the world, the most lovely, funny and knowledgeable facilitators, and of course priceless insights into your organization, you will also get:
 
-- time back in your life, because work wil go a lot smoother
-- safe money with therapists, because you'll be a lot happier
+- time back in your life, because work will go a lot smoother
+- save money with therapists, because you'll be a lot happier
 - 20% discount to the Team Topologies Academy
 - PDF extracts of the Miro boards
 - PDF of Infographics and cheat sheets"
