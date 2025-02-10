@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Our Approach: Navigating the complexity of change"
+title: "Our Approach"
 permalink: /our-approach/
 header: 
   overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
@@ -9,6 +9,8 @@ toc: true
 sidebar:
   nav: our-approach
 description: "An introduction to Conjurer's approach to enabling adaptive organizations."
+excerpt: >  
+    <span style="color:#0EA2F1">Navigating</span> the <span style="color:#0EA2F1">complexity</span> of change
 ---
 
 We recognize that organizations are **socio-technical systems**—a complex interplay of people, processes, and technology. To thrive, organizations must evolve in harmony with the ever-changing environment in which they operate.  

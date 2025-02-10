@@ -6,7 +6,7 @@ author_profile: false
 header: 
   overlay_color: "#0EA2F1"
   overlay_filter: rgba(53, 63, 68, 0.6)
-  overlay_image: /assets/images/covers/a-little-help.jpg
+  overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
 classes: wide
 ---
 

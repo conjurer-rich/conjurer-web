@@ -2,6 +2,8 @@
 layout: single
 title: "Insights"
 permalink: /insights/
+header: 
+  overlay_image: /assets/images/covers/BLACK_I_desktop-1.jpg
 toc: true
 toc_sticky: true
 sidebar:
