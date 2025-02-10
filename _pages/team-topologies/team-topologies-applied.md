@@ -326,7 +326,7 @@ We work with you and your teams to **uncover existing blockers to flow, recogniz
   id="contact"
   title="LET'S HAVE A CONVERSATION"
   main_content="Lets discuss which content, format, timing fits best with your desired outcomes. (Pricing based on request)"
-  url="mailto:ttvp@betterteamdynamics.com?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Enablement%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
