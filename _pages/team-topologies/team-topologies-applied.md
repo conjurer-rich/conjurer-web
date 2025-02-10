@@ -86,8 +86,8 @@ workshop_gallery:
     image_path: /assets/images/workshops/workshop_tim.jpg
     alt: "Workshop Team Interaction Modelling"
     title: "Workshop Team Interaction Modelling"
-  - url: /assets/images/workshops/workshop_pointing_1.jpg
-    image_path: /assets/images/workshops/workshop_pointing_1.jpg
+  - url: /assets/images/workshops/workshop_pointing_1.JPG
+    image_path: /assets/images/workshops/workshop_pointing_1.JPG
     alt: "Workshop helping teams understand each other"
     title: "Workshop helping teams understand each other"
   - url: /assets/images/workshops/workshop_wide_tables.jpg
