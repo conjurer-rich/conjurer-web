@@ -45,3 +45,33 @@
     width: auto;
   }
 }
+
+@media screen and (max-width: 768px) {
+    .hide-mobile {
+      display: none !important;
+    }
+    
+    // Make the remaining column take full width
+    .flex-grid .col,
+    .flex-grid .col-small {
+      flex: 0 0 100% !important;
+      max-width: 100% !important;
+    }
+  }
+
+// Add mobile stacking behavior
+.flex-grid-mobile-stack {
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+    
+    .col {
+      flex: 0 0 100%;
+      max-width: 100%;
+      margin-bottom: 2rem; // Add some spacing between stacked columns
+      
+      &:last-child {
+        margin-bottom: 0; // Remove margin from last column
+      }
+    }
+  }
+}

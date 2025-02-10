@@ -3,11 +3,13 @@
   justify-content: space-between; // Distribute items evenly
   align-items: flex-start; // Align items at the top
   border: 0;
+  gap: 1rem; // Add consistent spacing between items
 }
 
 .feature__item {
   text-align: left; // Center text within each item
   padding: 1.5rem;
+  flex: 1; // Allow items to grow equally
 }
 
 .archive__item-body {
@@ -32,9 +34,15 @@
   padding-top: 0px;
 }
 
-/* Mobile-first breakpoint */
-@media (max-width: 400px) {
+/* Mobile breakpoint - match other components */
+@media screen and (max-width: 768px) {
   .feature__wrapper {
-    display: block;
+    flex-direction: column;
+    gap: 2rem; // Increase gap for stacked items
+  }
+
+  .feature__item {
+    width: 100%;
+    padding: 1rem 0; // Adjust padding for mobile
   }
 }

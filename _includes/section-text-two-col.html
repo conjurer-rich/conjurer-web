@@ -4,7 +4,7 @@
       <h2 {% if include.title_class %}class="{{ include.title_class }}"{% endif %}>{{ include.title }}</h2>
     </div>
     {% endif %}
-    <div class="container flex-grid">
+    <div class="container flex-grid flex-grid-mobile-stack">
         <div class="content col">
             {{ include.left_content | markdownify }}
         </div>
