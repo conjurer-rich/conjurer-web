@@ -180,7 +180,7 @@ Understanding the core concepts is one thing—**applying them effectively is an
 
 {% include call-to-action.html
   title="YES, WE WANT / NEED THIS !"
-  url="mailto:ttvp@betterteamdynamics.com?subject=Team%20Topologies%20ETraining&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Training%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@conjurersolutions.co.uk?subject=Team%20Topologies%20ETraining&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Training%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
@@ -273,7 +273,7 @@ Lets discuss which content, format, timing fits best with your desired outcomes.
 
 {% include call-to-action.html
   title="YES, WE WANT / NEED THIS !"
-  url="mailto:ttvp@betterteamdynamics.com?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Workshops%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
+  url="mailto:ttvp@conjurersolutions.co.uk?subject=Team%20Topologies%20Enablement&body=Hey,%20%0A%0AI'm interested in Team%20Topologies%20Workshops%20and%20I%20would%20like%20to%20book%20a%20meeting%20with%20you."
   button_text=">> Send us an email"
   secondary_url="https://app.reclaim.ai/m/rich-allen-team-topologies/ttvp-discovery-call"
   secondary_button_prefix=" or "
