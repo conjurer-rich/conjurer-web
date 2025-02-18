@@ -38,9 +38,10 @@ training_topics:
   title: "TEAM TOPOLOGIES TRAINING TOPICS"
   primary_topics:
     - title: "TEAM TOPOLOGIES FUNDAMENTALS"
-    - title: "EFFECTIVE ENABLING TEAMS"
-    - title: "PLATFORM AS A PRODUCT"
     - title: "BLOCKERS TO FAST FLOW"
+    - title: "MODERN PLATFORMS"
+    - title: "EFFECTIVE ENABLING TEAMS"
+    
   secondary_topics:
     - title: "TEAM TOPOLOGIES FOR SCALE-UPS"
     - title: "TEAM TOPOLOGIES FOR SELF-MANAGING ORGANIZATIONS"
@@ -103,8 +104,21 @@ facilitators:
       linkedin: "https://www.linkedin.com/in/ericaengelen/"
 ---
 
+![Team Topologies Book](/assets/images/teamtopologies/TeamTop_cover_RGB_flat_stroke.jpg){: .align-right width="200" style="margin: 4em" }
+
 {% include section.html
-  main_content="We are experts in helping organizations build and manage **socio-technical systems** through the application of **Team Topologies principles and practices**. Through our hands-on experience we can help your organization to become more **adaptive, faster and happier** via our training, workshops and enablement services."
+main_content="We are experts in helping organizations build and manage **socio-technical systems** through the application of **Team Topologies principles and practices**. Through our hands-on experience we can help your organization to become more **adaptive, faster and happier** via our training, workshops and enablement services.  
+
+Perhaps you’ve read [Team Topologies](https://www.amazon.co.uk/s?k=team+topologies&crid=1DVJ6Z1NT0D60&sprefix=team+topologies%2Caps%2C99&ref=nb_sb_ss_mvt-t1-ranker_1_15&tag=conjurer-21){:target='_blank'} and found it compelling—but when it comes to applying it in your organization, you have unanswered questions.
+
+- How do we assess whether our teams have the right boundaries?
+- What’s the best way to evolve our team interactions over time?
+- How do we balance autonomy with alignment?
+- What practical steps can we take to reduce cognitive load and improve flow?
+
+Understanding the core concepts is one thing—**applying them effectively is another**. That’s where we come in. We help organizations bridge the gap between theory and real-world implementation, ensuring that teams not only understand the principles but also know how to put them into action in a way that aligns with their unique business context.
+
+👉 Explore how our training, workshops, and enablement services can help you turn Team Topologies into a competitive advantage."
 %}
 
 {% include feature_row %}
