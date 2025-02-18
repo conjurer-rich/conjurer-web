@@ -38,13 +38,9 @@ training_topics:
   title: "TEAM TOPOLOGIES TRAINING TOPICS"
   primary_topics:
     - title: "TEAM TOPOLOGIES FUNDAMENTALS"
-      icon: "/assets/images/teamtopologies/team-topologies-logo-small.png"
-    - title: "ENABLING TEAMS"
-      icon: "/assets/images/teamtopologies/team-topologies-logo-small.png"
+    - title: "EFFECTIVE ENABLING TEAMS"
     - title: "PLATFORM AS A PRODUCT"
-      icon: "/assets/images/teamtopologies/team-topologies-logo-small.png"
-    - title: "BLOCKERS TO FLOW"
-      icon: "/assets/images/teamtopologies/team-topologies-logo-small.png"
+    - title: "BLOCKERS TO FAST FLOW"
   secondary_topics:
     - title: "TEAM TOPOLOGIES FOR SCALE-UPS"
     - title: "TEAM TOPOLOGIES FOR SELF-MANAGING ORGANIZATIONS"
