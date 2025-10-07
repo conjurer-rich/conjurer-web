@@ -82,6 +82,7 @@ These providers deliver secure cloud-based services and are bound by GDPR-compli
 | NortonLifeLock Inc. (Gen Digital) | Endpoint security software | US (SCCs) |
 | Reclaim.ai | Scheduling and calendar integration (meeting coordination) | US (SCCs & UK Addendum) |
 | Krisp Technologies, Inc. (Krisp.ai) | Real-time audio processing and noise suppression during calls | US (SCCs & UK Addendum) |
+| SysCloud         | Backup and recovery for Google Workspace data | USA (with EU/UK data centre options) |
 
 We ensure equivalent protection for any international transfer of personal data outside the UK or EEA by using **Standard Contractual Clauses** and the **UK International Data Transfer Addendum**.
 
