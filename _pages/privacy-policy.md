@@ -6,8 +6,6 @@ redirect_from:
   - /privacy
 ---
 
-# Privacy Policy
-
 **Last updated:** October 2025  
 **Controller:** Conjurer Solutions Ltd  
 **Company Number:** 06284919  
@@ -82,6 +80,8 @@ These providers deliver secure cloud-based services and are bound by GDPR-compli
 | Microsoft Corporation | Productivity software | EU/US (SCCs) |
 | ConvertKit LLC | Email marketing platform | US (SCCs) |
 | NortonLifeLock Inc. (Gen Digital) | Endpoint security software | US (SCCs) |
+| Reclaim.ai | Scheduling and calendar integration (meeting coordination) | US (SCCs & UK Addendum) |
+| Krisp Technologies, Inc. (Krisp.ai) | Real-time audio processing and noise suppression during calls | US (SCCs & UK Addendum) |
 
 We ensure equivalent protection for any international transfer of personal data outside the UK or EEA by using **Standard Contractual Clauses** and the **UK International Data Transfer Addendum**.
 
