@@ -6,144 +6,139 @@ redirect_from:
   - /privacy
 ---
 
-Conjurer Solutions respects the privacy of its users and therefore treats personal information with the appropriate level of discretion and security. This policy outlines frequently asked questions relating to the information we gather and how we use it.
+# Privacy Policy
 
-This is the website of Conjurer Solutions Ltd. We can be reached via email at dpo@conjurersolutions.co.uk.
+**Last updated:** October 2025  
+**Controller:** Conjurer Solutions Ltd  
+**Company Number:** 06284919  
+**Registered Address:** 14 Portman Crescent, Bournemouth, Dorset BH5 2ER, United Kingdom  
+**Contact Email:** [dpo@conjurersolutions.co.uk](mailto:dpo@conjurersolutions.co.uk)
 
-## Website data policy
+---
 
-### What information do you store?
+## 1. Introduction
 
-We use cookies to record past activity at a site in order to provide better service when visitors return to our site. Cookies are small data files which are stored by your browser on your computer's hard drive. Cookies are held on your web browser for varying amounts of time depending on their use.
+Conjurer Solutions Ltd (“we”, “us”, “our”) respects your privacy and is committed to protecting your personal information.  
+This Privacy Policy explains what data we collect, how we use it, our lawful bases for processing, and your rights under the UK GDPR and the Data Protection Act 2018.
 
-You can easily change your browser settings to refuse or delete cookies or to let you know when you get a new cookie if you do not want to accept cookies on any website. The method of choosing to refuse or delete cookies differs depending on your browser so you will need to consult your browser's menu for further guidance.
+---
 
-For each visitor to our Web pages, our Web server automatically records the page requests when users visit our Website. These 'Server Logs' typically include your web request, internet protocol (IP) address, browser type, browser language, date and time of your request and one or more cookies.
+## 2. What Information We Collect
 
-All cookies are stored on the user's web browser only.
+We collect and process only the data necessary to provide and improve our services:
 
-### What do you do with the information you collect?
+- **Identity Data:** first name, last name, title  
+- **Contact Data:** business email address, telephone number, company name  
+- **Website Data:** cookies and server logs (e.g., IP address, browser type, pages visited)  
+- **Marketing Data:** newsletter subscriptions and email preferences  
 
-The information we collect is used to improve the content of our Web pages, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our website, used by us to contact our site visitors for marketing purposes and to notify of any future events or information we feel may be of interest to the consumer.
+---
 
-The Cookies we store are necessary to use third-party applications on our site such as Google Analytics. The information we gather from these applications does not identify specific individuals and is used by us for statistical purposes only. Disabling cookies will disable this functionality on the site.
+## 3. How We Collect Information
 
-### What other information do you keep track of, about me?
+We obtain personal data when you:
 
-We collect the domain name and email address (via a subscription service) of visitors to our web pages, the email addresses of those who post messages to our forums, the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the visitor, such as survey information and/or site registrations, name and address, telephone number, fax number.
+- Complete web forms, subscribe to updates, or request information  
+- Communicate with us by email or phone  
+- Attend our workshops or training sessions  
+- Visit our website (see Cookies below)
 
-### Do you sell my information to anyone?
+---
 
-We do NOT sell your personal information to any third party under any circumstances.
+## 4. How We Use Your Information
 
-### Do you share my information with other parts of your company?
+We process your data only where the law allows, for the following purposes:
 
-We only share your information with other parts of Conjurer Solutions.
+| **Purpose of Processing** | **Lawful Basis (Art. 6 UK GDPR)** |
+|----------------------------|-----------------------------------|
+| To deliver consulting, training, and related services | **Contract** |
+| To communicate about active or prospective engagements | **Legitimate Interests** |
+| To send newsletters and marketing materials when you opt in | **Consent** |
+| To operate and secure our website and systems | **Legitimate Interests** |
+| To meet legal or regulatory obligations | **Legal Obligation** |
 
-### Do you share my information with other companies?
+We do **not** sell personal data to any third party.
 
-We do not share your information with other individuals/companies 'outside' of Conjurer Solutions without prior consent.
+---
 
-### Why do you want to know my name and email address?
+## 5. Cookies and Website Analytics
 
-If you supply us with your email address online you may receive periodic emails from us with information on our activities and upcoming events. If you do not wish to receive such mailings, please let us know by emailing us at the above address or visiting our Contact us page.
+Our website uses cookies to enable basic functionality and collect anonymous usage statistics via **Google Analytics**.  
+You can refuse or delete cookies in your browser settings. Disabling cookies may affect site performance.  
+Analytics data is retained for **no more than 26 months**.
 
-### Changes to our policy
+---
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the above address or visiting our Contact us page.
+## 6. Data Sharing and Sub-Processors
 
-### Who can I talk to if I have a question about my privacy?
+We share limited personal data with trusted third-party service providers who act as **data processors** on our behalf.  
+These providers deliver secure cloud-based services and are bound by GDPR-compliant Data Processing Agreements (DPAs) and Standard Contractual Clauses (SCCs) where applicable.
 
-If you feel that this site is not following its stated information policy, you may email us at the above address or visit our Contact us page.
+| **Sub-Processor** | **Purpose** | **Location / Safeguard** |
+|--------------------|-------------|---------------------------|
+| Google Ireland Ltd (Google Workspace) | Email, document storage, collaboration | EU (Data centres in Ireland & Germany) |
+| Zoom Video Communications Inc. | Video meetings and workshops | US (SCCs & UK Addendum) |
+| Miro Inc. | Online whiteboard collaboration | EU/US (SCCs) |
+| Microsoft Corporation | Productivity software | EU/US (SCCs) |
+| ConvertKit LLC | Email marketing platform | US (SCCs) |
+| NortonLifeLock Inc. (Gen Digital) | Endpoint security software | US (SCCs) |
 
-### Links to third party websites
+We ensure equivalent protection for any international transfer of personal data outside the UK or EEA by using **Standard Contractual Clauses** and the **UK International Data Transfer Addendum**.
 
-This website contains links to other websites. Please note that this Privacy Policy applies solely to us and we are not responsible for the privacy practices of any other website. We encourage you to read the privacy policies of every website that collects personal information.
+---
 
-## Sales and consultancy data policy
+## 7. Data Retention
 
-### What this policy applies to
+We retain business contact information for up to **three years** after our last interaction unless a longer period is required for legal, regulatory, or contractual reasons.  
+Cookie and analytics data are retained as noted above.
 
-Where we refer to Data Protection Law below this means;
+---
 
-* unless and until the GDPR is no longer directly applicable in the UK, the General Data Protection Regulation ((EU) 2016/679) and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in the UK, and then
-* any successor legislation to the GDPR or the Data Protection Act 2018.
+## 8. Data Security
 
-Your privacy is important to us and we will process your data in accordance with Data Protection Law. This says that the personal information we hold about you must be:
+We implement appropriate technical and organisational measures to protect personal data, including:
 
-* Used lawfully, fairly and in a transparent way.
-* Collected only for valid purposes that we have clearly explained to you and not used in any way that is incompatible with those purposes.
-* Relevant to the purposes we have told you about and limited only to those purposes.
-* Accurate and kept up to date.
-* Kept only as long as necessary for the purposes we have told you about.
-* Kept securely.
-* You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues.
+- Multi-factor authentication (MFA) for system access  
+- Encryption of data in transit and at rest  
+- Role-based access controls and audit logging  
+- Regular security training and policy reviews  
 
-### The kind of information we hold about you
+---
 
-Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data that has been truly anonymised. We will collect, store, and use the following categories of personal information about you:
+## 9. Your Rights
 
-* Identity Data such as first name, last name and title.
-* Contact Data such as addresses, telephone numbers, and personal email addresses.
+Under the UK GDPR you have the right to:
 
-### If you fail to provide personal information
+- Access your data (Art. 15)  
+- Request correction (Art. 16)  
+- Request erasure (Art. 17)  
+- Restrict or object to processing (Arts. 18–21)  
+- Request data portability (Art. 20)  
 
-Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
+To exercise any of these rights, contact us at [dpo@conjurersolutions.co.uk](mailto:dpo@conjurersolutions.co.uk).  
+You also have the right to lodge a complaint with the **Information Commissioner’s Office (ICO)**:  
+[https://ico.org.uk](https://ico.org.uk) | Telephone: 0303 123 1113
 
-### How is your personal information collected?
+---
 
-You may give us your personal data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
+## 10. International Data Transfers
 
-* Sign up to newsletters.
-* Sign up to email updates.
-* Request demos and other interactive features.
-* Inbound email or phone calls
+Some subprocessors operate outside the UK and EEA.  
+Where this occurs, we rely on **Standard Contractual Clauses (SCCs)** and the **UK International Data Transfer Addendum** to ensure that an adequate level of protection is applied.
 
-### How we will use information about you
+---
 
-We will only use your personal information when the law allows us to.
+## 11. Changes to This Policy
 
-To administer and protect our business (including, sales & marketing activity, essential and nonessential communication, troubleshooting, data analysis, support, reporting) we will use your personal information where it is necessary to comply with a legal obligation or for our legitimate interests (running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise), or those of a third party, but only where your interests and fundamental rights do not override our interests.
+We may update this policy to reflect changes in our data-processing activities or legal obligations.  
+The latest version will always be available at [https://conjurersolutions.co.uk/privacy](https://conjurersolutions.co.uk/privacy).  
+Material changes will be communicated directly to subscribers or clients where appropriate.  
 
-We may also use your personal information in the following situations, which are likely to be rare:
+---
 
-* where we need to protect your interests (or someone else's interests); or
-* where it is needed in the public interest.
+## 12. Contact Us
 
-### Situations in which we will use your personal information
-
-We need all the categories of information we keep about you primarily to allow us to use your personal information to pursue legitimate interests of our own or those of third parties, provided your interests and fundamental rights do not override those interests. The situations in which we will process your personal information are listed below:
-
-* To provide the relevant service or feature that you have requested.
-* To manage your preferences.
-* To gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our newsletters and email subscriptions.
-* To conduct data analytics studies to review and better understand how and when people interact with us and our products.
-* Some of the above grounds for processing will overlap and there may be several grounds which justify our use of your personal information.
-
-You will have the ability to unsubscribe from any repeat communications at any time.
-
-### Change of purpose
-
-We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
-
-Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
-
-### Data sharing
-
-We may have to share your data with third parties, including third-party service providers. We require third parties to respect the security of your data and to treat it in accordance with the law. We may transfer your personal information outside the EU, as set out in "Transferring information outside the EU" below. If we do, you can expect a similar degree of protection in respect of your personal information.
-
-### Why might you share my personal information with third parties?
-
-We will share your personal information with third parties where required by law, where it is necessary to administer the working relationship with you or where we have another legitimate interest in doing so.
-
-### Which third-party service providers process my personal information?
-
-"Third parties" includes third-party service providers (including contractors, designated agents, and software provisions). The following categories of third-party service providers process personal information about you for the following purposes:
-
-* Service providers acting as processors based in the UK and US who provide IT, development system administration services or software.
-* Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based in the UK who provide consultancy, banking, legal, insurance and accounting services.
-* HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based in the United Kingdom who require reporting of processing activities in certain circumstances.
-
-### How secure is my information with third-party service providers?
-
-All our third-party service providers are required to take appropriate security measures to protect your personal information in line with our policies. We do not allow our third-party service providers to use your personal data for their own purposes. We only permit them to process your personal data for specified purposes and in accordance with our instructions. 
+If you have questions about this policy or how we handle your data, please contact:  
+**Data Protection Lead**  
+Conjurer Solutions Ltd  
+Email: [dpo@conjurersolutions.co.uk](mailto:dpo@conjurersolutions.co.uk)
