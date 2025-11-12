@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en"
-title: "Conjurer 🪄"
+title: "Conjurer Solutions"
 title_separator: "-"
 #subtitle: "Adding the magic to make your business flow" # site tagline that appears below site title in masthead
 logo: "/assets/images/conjurer-icon.png" # path of logo image to display in the masthead, e.g. "/assets/assets/images/88x88.png"
@@ -82,7 +82,7 @@ author:
       url: "https://conjurersolutions.co.uk"
     - label: "Blue Sky"
       icon: "fab fa-fw fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/richallen.info"
+      url: "https://bsky.app/profile/rich-allen.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/conjurer-rich"
@@ -95,9 +95,6 @@ footer:
     - label: "Privacy"
       icon: "fas fa-user-shield"
       url: "https://www.conjurersolutions.co.uk/privacy-policy"
-    - label: "Terms & Conditions"
-      icon: "fas fa-user-shield"
-      url: "https://www.conjurersolutions.co.uk/terms-and-conditions"
     - label: "Contact"
       icon: "fas fa-handshake"
       url: "/contact"
