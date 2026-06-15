@@ -6,7 +6,7 @@ redirect_from:
   - /privacy
 ---
 
-**Last updated:** October 2025  
+**Last updated:** June 2026  
 **Controller:** Conjurer Solutions Ltd  
 **Company Number:** 06284919  
 **Registered Address:** 14 Portman Crescent, Bournemouth, Dorset BH5 2ER, United Kingdom  
@@ -90,7 +90,7 @@ We ensure equivalent protection for any international transfer of personal data 
 
 ## 7. Data Retention
 
-We retain business contact information for up to **three years** after our last interaction unless a longer period is required for legal, regulatory, or contractual reasons.  
+We retain business contact information for up to **six years** after our last interaction unless a longer period is required for legal, regulatory, or contractual reasons.  
 Cookie and analytics data are retained as noted above.
 
 ---
